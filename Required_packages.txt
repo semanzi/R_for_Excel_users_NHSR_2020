@@ -1,0 +1,13 @@
+NHS-R Conference 2019
+R for Excel users workshop
+04/11/2019
+Please install the following packages either using the RStudio package installer or by running the code below in the console:
+
+psych
+plyr
+reshape2
+ggplot2
+
+Code to install the packages
+
+install.packages(c("psych","plyr","reshape2","ggplot2"))
